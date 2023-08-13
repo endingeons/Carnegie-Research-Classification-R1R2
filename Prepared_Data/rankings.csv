@@ -416,7 +416,6 @@ Manhattan C.,0,0.0,413,60.1,555,61.4,485,83.3
 Marietta C.,0,0.0,677,98.0,0,0.0,0,0.0
 Marquette U.,200,45.1,234,34.4,228,25.8,277,48.0
 Marshall B. Ketchum U.,0,0.0,661,95.7,597,66.0,569,97.6
-Marshall U.,288,64.6,267,39.2,264,29.7,216,37.6
 Maryland Institute C. Art,0,0.0,0,0.0,719,79.3,0,0.0
 Marymount U.,0,0.0,313,45.8,521,57.7,0,0.0
 Marywood U.,386,86.3,454,66.0,0,0.0,0,0.0
@@ -619,7 +618,6 @@ Roseman U.  Health Sciences,0,0.0,0,0.0,395,44.0,427,73.5
 Rowan U.,417,93.1,246,36.2,248,27.9,255,44.2
 Rush U.,308,69.0,385,56.1,166,19.0,237,41.1
 "Rutgers, The State U. New Jersey",0,0.0,43,7.0,0,0.0,0,0.0
-"Rutgers, The State U. New Jersey, Camden",354,79.2,0,0.0,411,45.7,372,64.1
 "Rutgers, The State U. New Jersey, New Brunswick",44,10.5,0,0.0,45,5.8,33,6.4
 "Rutgers, The State U. New Jersey, Newark",178,40.2,0,0.0,261,29.4,306,52.9
 "SUNY, Binghamton U.",100,22.9,99,15.1,153,17.6,196,34.2
@@ -762,7 +760,6 @@ Texas Tech U.,41,9.9,61,9.6,127,14.7,94,16.8
 Texas Tech U. Health Sciences Center,308,69.0,0,0.0,222,25.1,210,36.6
 "Texas Tech U. Health Sciences Center, El Paso",0,0.0,0,0.0,334,37.3,311,53.7
 Texas Woman's U.,159,36.0,225,33.1,415,46.1,386,66.5
-Thomas Jefferson U.,301,67.4,361,52.7,123,14.3,181,31.6
 Tiffin U.,0,0.0,538,78.1,0,0.0,0,0.0
 Tougaloo C.,0,0.0,690,99.9,535,59.2,576,98.8
 Touro C.,0,0.0,288,42.2,791,87.1,0,0.0
@@ -1095,10 +1092,3 @@ Xavier U. Louisiana,0,0.0,0,0.0,330,36.9,394,67.9
 Yale U.,33,8.1,70,10.9,15,2.5,16,3.6
 Yeshiva U.,271,60.8,345,50.4,403,44.8,516,88.6
 Youngstown State U.,430,96.0,416,60.5,492,54.5,258,44.7
-,,,,,,,,
-NOTES:,,,,,,,,
-The population of reporting institutions and levels of reporting differ across surveys and across years.,,,,,,,,
-For more information see Technical notes.,,,,,,,,
-Tied institutions are ranked alike and listed alphabetically. NCSES source data may rank tied institutions alphabetically.,,,,,,,,
-Unallocated in an institution name indicates funds that cannot be allocated to individual campuses or schools within an,,,,,,,,
-institution.,,,,,,,,
