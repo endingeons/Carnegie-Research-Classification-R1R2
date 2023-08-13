@@ -1,0 +1,4 @@
+Institution,Rank_earned_doct,Percentile_earned_doct,Rank_full_time_grad,Percentile_full_time_grad,Rank_tot_rd,Percentile_tot_rd,Rank_research_space,Percentile_research_space
+Thomas Jefferson U.,301,67.4,361,52.7,123,14.3,181,31.6
+"Rutgers, The State U. New Jersey, Camden",354,79.2,0,0.0,411,45.7,372,64.1
+Marshall U.,288,64.6,267,39.2,264,29.7,216,37.6
