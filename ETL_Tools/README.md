@@ -69,8 +69,8 @@ Link to GitHub Repository: [https://github.com/endingeons/Carnegie-Research-Clas
 | OTH\_RSD | CCIHE2021-PublicData.xlsx | Number of research/scholarship doctoral degrees conferred in professional fields |
 | Percentile Full Time Graduate | rankings.xlsx | Historical rankings based on total number of full time graduate students |
 | Percentile Research Space | rankings.xlsx | Historical rankings based on the total net assignable square feet in Science and engineering research space in academic institutions |
-
-![](RackMultipart20230813-1-ctuamq_html_882664dd91f1a929.png)
+  
+![EER Diagram](https://github.com/endingeons/Carnegie-Research-Classification-R1R2/blob/main/ETL_Tools/20230813%20EER%20Diagram.JPG)
 
 **Figure 1: EER Diagram of Research University Database**
 
